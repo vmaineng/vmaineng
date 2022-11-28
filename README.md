@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello everyone! I'm Mai Vang. I currently reside in Los Angeles, California.<br>👯 I’m looking for a Junior Front End Software Engineer position<br>👀 An engaging, versatile, creative driven full stack software engineer specializing in Front End Development using React.js with a background in Finance.<br>🌱 I’m currently learning Node.js and Express.<br>📫 Feel free to reach out to me at vmaineng@gmail.com<br>⚡ Fun fact: I love eating!
+👋 Hello everyone! I'm Mai Vang. Los Angeles, California.<br>👯  Junior Front End Software Engineer <br>👀 An engaging, versatile, creative driven full stack software engineer specializing in Front End Development using React.js with a background in Finance.<br>🌱 I’m currently learning Node.js and Express.<br>📫 Feel free to reach out to me at vmaineng@gmail.com<br>⚡ Fun fact: I love eating!
 
 
 ## 🌐 Socials:
