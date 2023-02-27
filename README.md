@@ -10,7 +10,7 @@ Hello everyone! I'm Mai Vang. <br> 👋 I'm a Full stack Software Engineer seeki
 
 ## 📚 Tech Articles and Talks 
 
-You can find a list of my post articles on 📖 **[ppt.baomitu.com]([https://ppt.baomitu.com/u/lizheming](https://medium.com/@vmaineng))**. 
+You can find a list of my post articles on 📖 **[MEDIUM](https://medium.com/@vmaineng)**. 
 
 
 # 📊 GitHub Stats:
