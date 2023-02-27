@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello everyone! I'm Mai Vang. Los Angeles, California.<br> 👋 Seeking a Junior Software Engineer <br>👀 An engaging, versatile, creative driven full stack software engineer with a background in Finance.<br>🌱 I’m currently learning Node.js and Express.<br>📫 Feel free to reach out to me at vmaineng@gmail.com<br>⚡ Fun fact: I love eating!
+# 👋 Introduction:
+Hello everyone! I'm Mai Vang. <br> 👋 I'm a Full stack Software Engineer seeking a Junior Software Engineer position <br>👀 I'm currently working as a Full Stack Software Engineer for two open sources: HackforLA and Hanawilo.<br>🌱 I’m currently learning Node.js and Express.<br>📫 Feel free to reach out to me at vmaineng@gmail.com<br>
 
 
 ## 🌐 Socials:
