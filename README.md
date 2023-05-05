@@ -1,5 +1,5 @@
 # 👋 Introduction:
-Hello everyone! I'm Mai Vang. <br> 👋 I'm a Full stack Software Engineer seeking a Junior Software Engineer position <br>👀 I'm currently working as a Full Stack Software Engineer for two open sources: HackforLA and Hanawilo.<br>🌱 I’m currently learning Node.js and Express.<br>📫 Feel free to reach out to me at vmaineng@gmail.com<br>
+Hello everyone! I'm Mai Vang. <br> 👋 I'm a Frontend Software Engineer seeking a Software Engineer position <br>👀 I'm currently working as a Full Stack Software Engineer for an oen source contribution called Hanawilo.<br>🌱 I’m currently learning Next.js along with AWS.<br>📫 Feel free to reach out to me via LinkedIn below<br>
 
 
 ## 🌐 Socials:
