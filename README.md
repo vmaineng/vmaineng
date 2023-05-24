@@ -14,9 +14,9 @@ You can find a list of my post articles on 📖 **[MEDIUM](https://medium.com/@v
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vmaineng&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
+!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vmaineng&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmaineng&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vmaineng&icon=0&color=0)](https://visitcount.itsvg.in)
