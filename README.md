@@ -10,7 +10,7 @@ Hello everyone! I'm Mai Vang. <br> 👋 I'm a Frontend Software Engineer seeking
 
 ## 📚 Tech Articles and Talks 
 
-You can find a list of my post articles on 📖 ! [MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@vmaineng)**. 
+You can find a list of my post articles on 📖 **[MEDIUM](https://medium.com/@vmaineng)**. 
 
 
 # 📊 GitHub Stats:
