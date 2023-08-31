@@ -1,5 +1,5 @@
 # 👋 Introduction:
-Hello everyone! I'm Mai Vang. <br> 👋 I'm a Fullstack Software Engineer seeking a Software Engineer position <br>👀 I'm currently working as a Full Stack Software Engineer for an open source contribution called Hanawilo.<br>📫 Feel free to reach out to me via LinkedIn below<br>
+Hello everyone! I'm Mai Vang. <br> 👋 I'm a Fullstack Software Engineer <br>📫 Feel free to reach out to me via LinkedIn below<br>
 
 
 ## 🌐 Socials:
