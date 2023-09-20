@@ -1,5 +1,5 @@
 # 👋 Introduction:
-Hello everyone! I'm Mai Vang. <br> 👋 I'm a Fullstack Software Engineer <br>📫 Feel free to reach out to me via LinkedIn below<br>
+👩 Hello everyone! I'm Mai Vang. <br> 👋 I'm a Fullstack Software Engineer involved from initial design to building to deployment <br>💻  I enjoy problem solving and building online applications to help people <br>📫 Feel free to reach out to me via LinkedIn below<br>
 
 
 ## 🌐 Socials:
