@@ -1,9 +1,9 @@
 # 👋 Introduction:
-👩 Hello everyone! I'm Mai Vang. <br> 👋 I'm a Fullstack Software Engineer involved from initial design to building to deployment <br>💻  I enjoy problem solving and building online applications to help people <br>📫 Feel free to reach out to me via LinkedIn below<br>
+👩 Hello everyone! I'm Mai Vang. <br> 👋 I'm a Software Engineer who works on initial design to building products to deployment <br>💻  I enjoy problem solving and building online applications to help people <br>📫 Feel free to reach out to me via LinkedIn below<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([a link](https://www.linkedin.com/in/mai-vang-swe/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-vang-swe/)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	
