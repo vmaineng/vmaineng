@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://jd-ai.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/828517b7-6021-44f8-8b82-cbfa3ab86d55" alt="JD-AI Demo" width="80%">
+    <img src="https://github.com/user-attachments/assets/6b81a6cb-0a18-425f-ad3f-cfa749124a1b" alt="JD-AI Demo" width="80%">
   </a>
 
 </p>
