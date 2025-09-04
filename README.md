@@ -18,12 +18,13 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <a href="https://www.youtube.com/watch?v=YOUR_ACTUAL_VIDEO_ID" target="_blank">
     <img src="https://github.com/user-attachments/assets/828517b7-6021-44f8-8b82-cbfa3ab86d55" alt="JD-AI Walkthrough Video" width="80%">
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/yourusername/your-repo"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&logo=github" style="max-width: 100%;"></a>
+  <a href="https://github.com/yourusername/your-actual-repo"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&logo=github" style="max-width: 100%;"></a>
   <a href="https://jd-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
   
 </p>
