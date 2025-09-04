@@ -16,17 +16,11 @@
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-
 <p align="center">
   <a href="https://jd-ai.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/828517b7-6021-44f8-8b82-cbfa3ab86d55" alt="JD-AI Walkthrough Video" width="80%">
+    <img src="https://github.com/user-attachments/assets/828517b7-6021-44f8-8b82-cbfa3ab86d55" alt="JD-AI Demo" width="80%">
   </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/yourusername/your-actual-repo"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&logo=github" style="max-width: 100%;"></a>
-  <a href="https://jd-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
-  
 </p>
 <p align="center"><strong>React, Next.js, Supabase, GPT-4</strong></p>
 <p align="center">🎬 <em>Practice your behavorial interview responses with JD-AI and receive critiques from AI</em></p>
