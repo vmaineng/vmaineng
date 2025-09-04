@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://www.kapwing.com/videos/68b9adf6d17ce41d60ab90af" alt="JD-AI Walkthrough Video" width="80%">
+    <img src="https://github.com/user-attachments/assets/828517b7-6021-44f8-8b82-cbfa3ab86d55" alt="JD-AI Walkthrough Video" width="80%">
   </a>
 </p>
 <p align="center">
