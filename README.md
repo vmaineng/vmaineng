@@ -38,7 +38,7 @@ A translation app to help users translate medical terms from Hmong to English an
 </p>
 An AI-Powered Platform to help job seekers gain confidence in their behavioral and technical answers
 <br />
-**Tech Stack:** React, Javascript, Typescript, Node.js, OpenAI, 
+<b>Tech Stack: </b> React, Javascript, Typescript, Node.js, OpenAI, 
 <br />
 
 ### 🌐 [Mai's Portfolio]
