@@ -2,7 +2,9 @@
 # Hi there, I'm Mai 👋
 
 ## About Me
-I'm a UX engineer who loves building apps and contributing to open-source projects. When I'm not coding, you can find me eating somewhere around the city. I believe in writing clean, efficient code and continuously learning new technologies.
+I'm a UX engineer who loves building apps and contributing to open-source projects. 
+<br/>
+When I'm not coding, you can find me eating somewhere around the city. I believe in writing clean, efficient code and continuously learning new technologies.
 
 ## 🛠️ Technologies & Languages
 
