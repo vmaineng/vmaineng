@@ -43,6 +43,11 @@ An AI-Powered Platform to help job seekers gain confidence in their behavioral a
 
 ### 🌐 [Mai's Portfolio]
 Mai's Portfolio
+<p align="center">
+  <a href="https://road-portfolio.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c0474f8a-5903-473c-a33a-05fc76ecbf5f" alt="Mai portfolio" width="80%">
+  </a>
+</p>
 - **Tech Stack:** React, TypeScript, Tailwind CSS, react-transition-group, MapLibre
 - [Live Demo](https://road-portfolio.vercel.app/) | [Repository](https://github.com/vmaineng/road-portfolio)
 
