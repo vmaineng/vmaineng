@@ -37,15 +37,14 @@ A translation app to help users translate medical terms from Hmong to English an
   </a>
 </p>
 An AI-Powered Platform to help job seekers gain confidence in their behavioral and technical answers
+<br />
 - **Tech Stack:** React, Javascript, Typescript, Node.js, OpenAI, 
-- **Features:** Feature 1, Feature 2, Feature 3
-- [Live Demo](https://your-demo-link.com) | [Repository](https://github.com/yourusername/project2)
+<br />
 
 ### 🌐 [Mai's Portfolio]
 Mai's Portfolio
 - **Tech Stack:** React, TypeScript, Tailwind CSS, react-transition-group, MapLibre
-- **Features:** Feature 1, Feature 2, Feature 3
-- [Live Demo](https://your-demo-link.com) | [Repository](https://github.com/yourusername/project2)
+- [Live Demo](https://road-portfolio.vercel.app/) | [Repository](https://github.com/vmaineng/road-portfolio)
 
 
 ## 📊 GitHub Stats
