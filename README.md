@@ -32,8 +32,9 @@ A translation app to help users translate medical terms from Hmong to English an
 
 ### 🌐 [JD-AI]
 <p align="center">
-  <a href="https://github.com/yourusername/your-actual-repo"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&logo=github" style="max-width: 100%;"></a>
-  <a href="https://jd-ai.vercel.app/" target="_blank"><img src="[https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge](https://github.com/user-attachments/assets/5ba2b7ee-8f48-4c0d-b063-2bdc1ac18700)" style="max-width: 100%;"></a>
+  <a href="https://www.youtube.com/watch?v=YOUR_ACTUAL_VIDEO_ID" target="_blank">
+    <img src="https://github.com/user-attachments/assets/828517b7-6021-44f8-8b82-cbfa3ab86d55" alt="JD-AI Walkthrough Video" width="80%">
+  </a>
 </p>
 An AI-Powered Platform to help job seekers gain confidence in their behavioral and technical answers
 - **Tech Stack:** React, Javascript, Typescript, Node.js, OpenAI, 
