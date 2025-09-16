@@ -43,9 +43,10 @@ An AI-Powered Platform to help job seekers gain confidence in their behavioral a
 <br />
 
 <div align="center"> <table> <tr> <td align="center" width="50%"> <h3>🌐 Mai's Portfolio</h3> <a href="https://road-portfolio.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/c0474f8a-5903-473c-a33a-05fc76ecbf5f" alt="Mai portfolio" width="100%"> </a> <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p> <p> <a href="https://road-portfolio.vercel.app/" target="_blank">Live Demo</a> | <a href="https://github.com/vmaineng/road-portfolio" target="_blank">Repository</a> </p> </td> <td align="center" width="50%"> <h3>📺 UX Case Study - Netflix Mini Player</h3> <a href="https://netflix-mini-player-aowf1cpar-vmainengs-projects.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/96149ccd-d5e5-467d-8e54-b1cdb62e12be" alt="Netflix Mini Player" width="100%"> </a> <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p> <p> <a href="https://netflix-mini-player-aowf1cpar-vmainengs-projects.vercel.app/" target="_blank">Live Demo</a> | <a href="https://github.com/vmaineng/road-portfolio" target="_blank">Repository</a> </p> </td> </tr> </table> </div>
+<br />
 
 ## 🌱 Currently Learning
-- I'm currently honing my craft with React, JavaScript/TypeScript and Python
+- I'm currently honing my craft with React, JavaScript/TypeScript and Python along with 12 laws of UX
 - I'd love to get more familiar with MCPs and AI
 
 ## 💬 Let's Connect!
