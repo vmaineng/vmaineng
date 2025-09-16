@@ -29,7 +29,6 @@ When I'm not coding, you can find me eating somewhere around the city. I believe
 ### 📱 [Hmong Translation] - Still in the works
 A translation app to help users translate medical terms from Hmong to English and vice versa.
 - **Tech Stack:** React, Javascript, Typescript, Node.js, OpenAI, 
-- **Features:** Feature 1, Feature 2, Feature 3
 
 
 ### 🌐 [JD-AI]
@@ -43,25 +42,7 @@ An AI-Powered Platform to help job seekers gain confidence in their behavioral a
 <b>Tech Stack: </b> React, Javascript, Typescript, Node.js, OpenAI, 
 <br />
 
-### 🌐 [Mai's Portfolio]
-Mai's Portfolio
-<p align="center">
-  <a href="https://road-portfolio.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c0474f8a-5903-473c-a33a-05fc76ecbf5f" alt="Mai portfolio" width="80%">
-  </a>
-</p>
-<br/>
-<b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre
-<br/>
-- [Live Demo](https://road-portfolio.vercel.app/) | [Repository](https://github.com/vmaineng/road-portfolio)
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<div align="center"> <table> <tr> <td align="center" width="50%"> <h3>🌐 Mai's Portfolio</h3> <a href="https://road-portfolio.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/c0474f8a-5903-473c-a33a-05fc76ecbf5f" alt="Mai portfolio" width="100%"> </a> <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p> <p> <a href="https://road-portfolio.vercel.app/" target="_blank">Live Demo</a> | <a href="https://github.com/vmaineng/road-portfolio" target="_blank">Repository</a> </p> </td> <td align="center" width="50%"> <h3>📺 UX Case Study - Netflix Mini Player</h3> <a href="https://netflix-mini-player-aowf1cpar-vmainengs-projects.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/96149ccd-d5e5-467d-8e54-b1cdb62e12be" alt="Netflix Mini Player" width="100%"> </a> <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p> <p> <a href="https://netflix-mini-player-aowf1cpar-vmainengs-projects.vercel.app/" target="_blank">Live Demo</a> | <a href="https://github.com/vmaineng/road-portfolio" target="_blank">Repository</a> </p> </td> </tr> </table> </div>
 
 ## 🌱 Currently Learning
 - I'm currently honing my craft with React, JavaScript/TypeScript and Python
