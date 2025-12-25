@@ -49,7 +49,7 @@ An AI-Powered Platform to help job seekers gain confidence in their behavioral a
       React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p> <p> 
         <a href="https://pastel-portfolio-iota.vercel.app/" target="_blank">Live Site</a> | 
         <a href="https://github.com/vmaineng/pastel-portfolio" target="_blank">Repository</a> </p> </td> <td align="center" width="50%">
-          <h3> Holidays Snowglobe </h3> <a href="https://snowglobe2025.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" width="100%"> </a> <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p> <p> <a href="https://netflix-mini-player-aowf1cpar-vmainengs-projects.vercel.app/" target="_blank">Live Site</a> | <a href="https://github.com/vmaineng/netflix-mini-player?tab=readme-ov-file" target="_blank">Repository</a> </p> </td> </tr> </table> </div>
+          <h3> Holidays Snowglobe </h3> <a href="https://snowglobe2025.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" width="100%"> </a> <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS</p> <p> <a href="https://snowglobe2025.vercel.app/" target="_blank">Live Site</a> | <a href="https://github.com/vmaineng/snowglobe2025" target="_blank">Repository</a> </p> </td> </tr> </table> </div>
 <br />
 
 
