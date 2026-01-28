@@ -58,7 +58,7 @@ When I'm not coding, you can find me eating somewhere around the city.
       <td align="center" width="50%">
         <h3>Junior Open Source Repo Analyzer</h3> 
         <a href="https://junior-repo-analyzer-agent.vercel.app/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" width="100%">
+          <img src="https://github.com/user-attachments/assets/da52ffdd-0e13-4d28-b65c-78b71192a5a1" alt="Open Source Repo Analyzer" width="100%">
         </a>
         <p>An AI-powered tool that helps junior developers find GitHub repositories perfect for their first open-source contributions.</p>
         <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS, Claude API, GitHub API</p>
