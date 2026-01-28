@@ -2,9 +2,9 @@
 # Hi there, I'm Mai 👋
 
 ## About Me
-I'm a Web engineer who loves building apps and contributing to open-source projects. 
+I'm a Web engineer who loves building apps, working with AI, and contributing to open-source projects. 
 <br/>
-When I'm not coding, you can find me eating somewhere around the city. I believe in writing clean, efficient code and continuously learning new technologies.
+When I'm not coding, you can find me eating somewhere around the city.
 
 ## 🛠️ Technologies & Languages
 
@@ -56,25 +56,28 @@ When I'm not coding, you can find me eating somewhere around the city. I believe
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3>❄️ Holiday Snowglobe</h3> 
-        <a href="https://snowglobe2025.vercel.app/" target="_blank">
+        <h3>Junior Open Source Repo Analyzer</h3> 
+        <a href="https://junior-repo-analyzer-agent.vercel.app/" target="_blank">
           <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" width="100%">
         </a>
-        <p>A festive interactive snowglobe experience with falling snow and holiday cheer</p>
+        <p>An AI-powered tool that helps junior developers find GitHub repositories perfect for their first open-source contributions.</p>
+        <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS, Claude API, GitHub API</p>
+        <p>
+          <a href="https://junior-repo-analyzer-agent.vercel.app/" target="_blank">Live Site</a> | 
+          <a href="https://github.com/vmaineng/junior-repo-analyzer-agent?tab=readme-ov-file" target="_blank">Repository</a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>❄️ Holiday Snowglobe</h3>
+        <a href="https://snowglobe2025.vercel.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" alt="Snowglobe" width="100%">
+        </a>
+           <p>A festive interactive snowglobe experience with falling snow and holiday cheer</p>
         <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS</p>
         <p>
           <a href="https://snowglobe2025.vercel.app/" target="_blank">Live Site</a> | 
           <a href="https://github.com/vmaineng/snowglobe2025" target="_blank">Repository</a>
         </p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🏥 Hmong Translation</h3>
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/600x400/3178C6/FFFFFF?text=Coming+Soon" alt="Hmong Translation App" width="100%">
-        </a>
-        <p>A translation app to help users translate medical terms from Hmong to English and vice versa</p>
-        <p><b>Tech Stack:</b> React, JavaScript, TypeScript, Node.js, OpenAI</p>
-        <p><i>🚧 Still in the works</i></p>
       </td>
     </tr>
   </table> 
@@ -95,7 +98,7 @@ I'm always interested in collaborating on exciting projects or discussing new op
 <a href="https://x.com/MaiVangSWE" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="https://road-portfolio.vercel.app/" target="_blank">
+<a href="https://pastel-portfolio-iota.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
 </a>
 
