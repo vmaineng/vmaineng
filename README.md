@@ -26,31 +26,59 @@ When I'm not coding, you can find me eating somewhere around the city. I believe
 
 ## 🚀 Featured Projects
 
-### 📱 [Hmong Translation] - Still in the works
-A translation app to help users translate medical terms from Hmong to English and vice versa.
-- **Tech Stack:** React, Javascript, Typescript, Node.js, OpenAI, 
-
-
-### 🌐 [JD-AI]
-<p align="center">
-  <a href="https://jd-ai.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5ba2b7ee-8f48-4c0d-b063-2bdc1ac18700" alt="JD-AI Walkthrough Video" width="80%">
-  </a>
-</p>
-An AI-Powered Platform to help job seekers gain confidence in their behavioral and technical answers
-<br />
-<b>Tech Stack: </b> React, Javascript, Typescript, Node.js, OpenAI, 
-<br />
-<br/>
-
-<div align="center"> <table> <tr> <td align="center" width="50%"> <h3>🌐 Mai's Portfolio</h3> 
-  <a href="https://road-portfolio.vercel.app/" target="_blank"> 
-    <img src="https://github.com/user-attachments/assets/ac57d3d3-17e8-44bb-9e97-c1b67ad2183b" alt="Mai portfolio" width="100%"> </a> <p><b>Tech Stack:</b> 
-      React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p> <p> 
-        <a href="https://pastel-portfolio-iota.vercel.app/" target="_blank">Live Site</a> | 
-        <a href="https://github.com/vmaineng/pastel-portfolio" target="_blank">Repository</a> </p> </td> <td align="center" width="50%">
-          <h3> Holidays Snowglobe </h3> <a href="https://snowglobe2025.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" width="100%"> </a> <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS</p> <p> <a href="https://snowglobe2025.vercel.app/" target="_blank">Live Site</a> | <a href="https://github.com/vmaineng/snowglobe2025" target="_blank">Repository</a> </p> </td> </tr> </table> </div>
-<br />
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center" width="50%">
+        <h3>🤖 JD-AI</h3>
+        <a href="https://jd-ai.vercel.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/5ba2b7ee-8f48-4c0d-b063-2bdc1ac18700" alt="JD-AI Walkthrough Video" width="100%">
+        </a>
+        <p>An AI-Powered Platform to help job seekers gain confidence in their behavioral and technical answers</p>
+        <p><b>Tech Stack:</b> React, JavaScript, TypeScript, Node.js, OpenAI</p>
+        <p>
+          <a href="https://jd-ai.vercel.app/" target="_blank">Live Site</a> | 
+          <a href="https://github.com/vmaineng/jd-ai" target="_blank">Repository</a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌐 Mai's Portfolio</h3> 
+        <a href="https://road-portfolio.vercel.app/" target="_blank"> 
+          <img src="https://github.com/user-attachments/assets/ac57d3d3-17e8-44bb-9e97-c1b67ad2183b" alt="Mai portfolio" width="100%">
+        </a>
+        <p>Interactive portfolio showcasing my journey as a developer with smooth animations and modern design</p>
+        <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p>
+        <p> 
+          <a href="https://road-portfolio.vercel.app/" target="_blank">Live Site</a> | 
+          <a href="https://github.com/vmaineng/pastel-portfolio" target="_blank">Repository</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>❄️ Holiday Snowglobe</h3> 
+        <a href="https://snowglobe2025.vercel.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" width="100%">
+        </a>
+        <p>A festive interactive snowglobe experience with falling snow and holiday cheer</p>
+        <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS</p>
+        <p>
+          <a href="https://snowglobe2025.vercel.app/" target="_blank">Live Site</a> | 
+          <a href="https://github.com/vmaineng/snowglobe2025" target="_blank">Repository</a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🏥 Hmong Translation</h3>
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/600x400/3178C6/FFFFFF?text=Coming+Soon" alt="Hmong Translation App" width="100%">
+        </a>
+        <p>A translation app to help users translate medical terms from Hmong to English and vice versa</p>
+        <p><b>Tech Stack:</b> React, JavaScript, TypeScript, Node.js, OpenAI</p>
+        <p><i>🚧 Still in the works</i></p>
+      </td>
+    </tr>
+  </table> 
+</div>
 
 
 ## 🌱 Currently Learning
