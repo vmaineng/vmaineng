@@ -2,9 +2,13 @@
 # Hi there, I'm Mai 👋
 
 ## About Me
-I'm a Web engineer who loves building apps, working with AI, and contributing to open-source projects. 
-<br/>
-When I'm not coding, you can find me eating somewhere around the city.
+**Software Engineer** building AI-powered web applications with React, TypeScript, and Python.
+
+I specialize in creating intuitive user interfaces and integrating modern AI capabilities 
+into production applications. Currently contributing to open-source projects and building 
+tools that help developers work more efficiently.
+
+When I'm not coding, you'll find me exploring LA's food scene.
 
 ## 🛠️ Technologies & Languages
 
