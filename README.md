@@ -88,9 +88,12 @@ When I'm not coding, you'll find me exploring LA's food scene.
 </div>
 
 
-## 🌱 Currently Learning
-- I'm currently honing my craft with React, JavaScript/TypeScript and Python 
-- I'd love to get more familiar with MCPs and AI
+## 🌱 Current Focus
+
+- **Building:** AI-powered developer tools using Claude and GPT-4 APIs
+- **Contributing:** Active in PostHog and MUI open-source communities
+- **Learning:** Advanced system design patterns, Playwright E2E testing
+- **Exploring:** MCP (Model Context Protocol) integrations
 
 ## 💬 Let's Connect!
 
