@@ -91,9 +91,9 @@ When I'm not coding, you'll find me exploring LA's food scene.
 ## 🌱 Current Focus
 
 - **Building:** AI-powered developer tools using Claude and GPT-4 APIs
-- **Contributing:** Active in PostHog and MUI open-source communities
-- **Learning:** Advanced system design patterns, Playwright E2E testing
-- **Exploring:** MCP (Model Context Protocol) integrations
+- **Contributing:** Active in PostHog community and writing all about my learning journey: <a href="https://medium.com/@vmaineng/first-pr-pushed-in-the-book-debugging-keyboard-navigation-c877e0edd0b7"> Read more here</a>
+- **Learning:** System design patterns, working in a new codebase
+- **Exploring:** MCP (Model Context Protocol) integrations, front end designs
 
 ## 💬 Let's Connect!
 
