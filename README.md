@@ -83,13 +83,13 @@ When I'm not coding, you'll find me exploring LA's food scene.
        <td align="center" width="50%">
         <h3>Posthog</h3>
         <a href="https://posthog.com/" target="_blank">
-          <img src="https://github.com/vmaineng/posthog" alt="Posthog" alt="Posthog" width="100%">
+          <img src="https://github.com/user-attachments/assets/a7efd523-cb14-4374-947a-1c6641b5c851" alt="Posthog" alt="Posthog" width="100%">
         </a>
            <p>PostHog is an all-in-one, open source platform for building successful products</p>
         <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS</p>
         <p>
-          <a href="https://snowglobe2025.vercel.app/" target="_blank">Live Site</a> | 
-          <a href="https://github.com/vmaineng/snowglobe2025" target="_blank">Repository</a>
+          <a href="https://posthog.com/" target="_blank">Live Site</a> | 
+          <a href="https://github.com/vmaineng/posthog" target="_blank">Repository</a>
         </p>
       </td>
   </table>
