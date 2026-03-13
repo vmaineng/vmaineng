@@ -2,7 +2,7 @@
 # Hi there, I'm Mai 👋
 
 ## About Me
-**Software Engineer** building AI-powered web applications with React, TypeScript, and Python.
+**Software Engineer** building AI-powered web applications with React, TypeScript, and Python contributing to Post Hog open source.
 
 I specialize in creating intuitive user interfaces and integrating modern AI capabilities 
 into production applications. Currently contributing to open-source projects and building 
@@ -71,22 +71,29 @@ When I'm not coding, you'll find me exploring LA's food scene.
           <a href="https://github.com/vmaineng/junior-repo-analyzer-agent?tab=readme-ov-file" target="_blank">Repository</a>
         </p>
       </td>
-      <td align="center" width="50%">
-        <h3>❄️ Holiday Snowglobe</h3>
-        <a href="https://snowglobe2025.vercel.app/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/11e8db94-1cc9-4ea5-86c1-3473ec1357e7" alt="Snowglobe" alt="Snowglobe" width="100%">
+   
+    </tr>
+  </table> 
+</div>
+
+
+## Open Source
+<div>
+  <table>
+       <td align="center" width="50%">
+        <h3>Posthog</h3>
+        <a href="https://posthog.com/" target="_blank">
+          <img src="https://github.com/vmaineng/posthog" alt="Posthog" alt="Posthog" width="100%">
         </a>
-           <p>A festive interactive snowglobe experience with falling snow and holiday cheer</p>
+           <p>PostHog is an all-in-one, open source platform for building successful products</p>
         <p><b>Tech Stack:</b> React, TypeScript, Next.js, CSS</p>
         <p>
           <a href="https://snowglobe2025.vercel.app/" target="_blank">Live Site</a> | 
           <a href="https://github.com/vmaineng/snowglobe2025" target="_blank">Repository</a>
         </p>
       </td>
-    </tr>
-  </table> 
+  </table>
 </div>
-
 
 ## 🌱 Current Focus
 
