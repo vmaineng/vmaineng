@@ -72,7 +72,7 @@ When I'm not coding, you'll find me exploring LA's food scene.
         </p>
       </td>
    
-    </tr>
+
   </table> 
 </div>
 
