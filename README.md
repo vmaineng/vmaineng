@@ -47,8 +47,8 @@ When I'm not coding, you'll find me exploring LA's food scene.
       </td>
       <td align="center" width="50%">
         <h3>🌐 Mai's Portfolio</h3> 
-        <a href="https://road-portfolio.vercel.app/" target="_blank"> 
-          <img src="https://github.com/user-attachments/assets/ac57d3d3-17e8-44bb-9e97-c1b67ad2183b" alt="Mai portfolio" width="100%">
+        <a href="https://pastel-portfolio-iota.vercel.app/" target="_blank"> 
+          <img src="https://github.com/user-attachments/assets/55e2ec31-db67-4ecd-baa3-dea9330c8331" alt="Mai portfolio" width="100%">
         </a>
         <p>Interactive portfolio showcasing my journey as a developer with smooth animations and modern design</p>
         <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p>
