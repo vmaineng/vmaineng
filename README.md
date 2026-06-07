@@ -53,7 +53,7 @@ When I'm not coding, you'll find me exploring LA's food scene.
         <p>Interactive portfolio showcasing my journey as a developer with smooth animations and modern design</p>
         <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, react-transition-group, MapLibre</p>
         <p> 
-          <a href="https://road-portfolio.vercel.app/" target="_blank">Live Site</a> | 
+          <a href="https://pastel-portfolio-iota.vercel.app/" target="_blank">Live Site</a> | 
           <a href="https://github.com/vmaineng/pastel-portfolio" target="_blank">Repository</a>
         </p>
       </td>
